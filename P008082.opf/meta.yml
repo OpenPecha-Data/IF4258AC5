@@ -1,15 +1,16 @@
-id: opecha:P008082
+id: P008082
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W2PD17442
   title: བདེ་འཇགས་དོ་དམ་ཆད་གཅོད་བཅའ་ཁྲིམས་བསླབ་དེབ།
-  volume:
+  author: ''
+  volumes:
     b8981c060d1349159d3bd66e8d43f53e:
       image_group_id: I4PD3066
       title: Volume 1 of bde 'jags do dam chad gcod bca' khrims bslab deb/
       volume_number: 1
       total_pages: 216
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བདེ་འཇགས་དོ་དམ་ཆད་གཅོད་བཅའ་ཁྲིམས་བསླབ་དེབ།
   author: ''
